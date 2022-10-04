@@ -1,1 +1,3 @@
-Segundo teste sozinho de fazer um ficheiro nano.file3
+Segundo teste sozinho de fazer um ficheiro nano.
+Esta foi a segunda frase escrita utilizando o modifier.
+Neste caso podemos de chamar de modificador.
